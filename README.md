@@ -1,8 +1,8 @@
 Codewars Stage2:
-- [x]- (8 kyu) http://www.codewars.com/kata/opposite-number
+- [x] - (8 kyu) http://www.codewars.com/kata/opposite-number
 - [x] - (8 kyu) http://www.codewars.com/kata/basic-mathematical-operations
 - [x] - (8 kyu) http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
-- [ ] - (8 kyu) http://www.codewars.com/kata/transportation-on-vacation
+- [x] - (8 kyu) http://www.codewars.com/kata/transportation-on-vacation
 - [x] - (7 kyu) http://www.codewars.com/kata/get-the-middle-character
 - [ ] - (5 kyu) http://www.codewars.com/kata/partition-on
 - [ ] - (8 kyu) http://www.codewars.com/kata/word-count
