@@ -4,10 +4,10 @@ Codewars Stage2:
 - [x] - (8 kyu) http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
 - [x] - (8 kyu) http://www.codewars.com/kata/transportation-on-vacation
 - [x] - (7 kyu) http://www.codewars.com/kata/get-the-middle-character
-- [ ] - (5 kyu) http://www.codewars.com/kata/partition-on
-- [ ] - (8 kyu) http://www.codewars.com/kata/word-count
-- [ ] - (8 kyu) http://www.codewars.com/kata/remove-first-and-last-character-part-two
-- [ ] - (8 kyu) http://www.codewars.com/kata/implement-a-filter-function
+- [x] - (5 kyu) http://www.codewars.com/kata/partition-on
+- [x] - (8 kyu) http://www.codewars.com/kata/word-count
+- [x] - (8 kyu) http://www.codewars.com/kata/remove-first-and-last-character-part-two
+- [x] - (8 kyu) http://www.codewars.com/kata/implement-a-filter-function
 - [ ] - (6 kyu) http://www.codewars.com/kata/prefill-an-array
 - [ ] - (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
 - [ ] - (7 kyu) http://www.codewars.com/kata/sequence-generator-1
