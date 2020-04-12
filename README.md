@@ -8,9 +8,9 @@ Codewars Stage2:
 - [x] - (8 kyu) http://www.codewars.com/kata/word-count
 - [x] - (8 kyu) http://www.codewars.com/kata/remove-first-and-last-character-part-two
 - [x] - (8 kyu) http://www.codewars.com/kata/implement-a-filter-function
-- [ ] - (6 kyu) http://www.codewars.com/kata/prefill-an-array
+- [x] - (6 kyu) http://www.codewars.com/kata/prefill-an-array
 - [ ] - (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
-- [ ] - (7 kyu) http://www.codewars.com/kata/sequence-generator-1
+- [x] - (7 kyu) http://www.codewars.com/kata/sequence-generator-1
 - [ ] - (6 kyu) https://www.codewars.com/kata/base-conversion/
 - [ ] - (6 kyu) http://www.codewars.com/kata/closures-and-scopes
 (Beta) http://www.codewars.com/kata/a-function-within-a-function
@@ -37,9 +37,9 @@ Optional
 - [ ] - (1 kyu) http://www.codewars.com/kata/functional-sql
 - [ ] - (5 kyu) http://www.codewars.com/kata/can-you-get-the-loop
 Scoring criteria
-- [ ] - 1 point for 8 kyu and 7 kyu tasks (14 tasks at all)
-- [ ] - 4 points - 6 kyu (11 at all)
-- [ ] - 5 points - 5 kyu (7 at all)
+1 point for 8 kyu and 7 kyu tasks (14 tasks at all)
+4 points - 6 kyu (11 at all)
+5 points - 5 kyu (7 at all)
 Total: 1 * 14 + 4 * 11 + 5 * 7 = 93
 
 Additionally you can score:
