@@ -9,10 +9,10 @@ Codewars Stage2:
 - [x] - (8 kyu) http://www.codewars.com/kata/remove-first-and-last-character-part-two
 - [x] - (8 kyu) http://www.codewars.com/kata/implement-a-filter-function
 - [x] - (6 kyu) http://www.codewars.com/kata/prefill-an-array
-- [ ] - (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
+- [x] - (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
 - [x] - (7 kyu) http://www.codewars.com/kata/sequence-generator-1
 - [ ] - (6 kyu) https://www.codewars.com/kata/base-conversion/
-- [ ] - (6 kyu) http://www.codewars.com/kata/closures-and-scopes
+- [x] - (6 kyu) http://www.codewars.com/kata/closures-and-scopes
 (Beta) http://www.codewars.com/kata/a-function-within-a-function
 - [ ] - (6 kyu) http://www.codewars.com/kata/can-you-keep-a-secret
 - [ ] - (5 kyu) http://www.codewars.com/kata/using-closures-to-share-class-state
