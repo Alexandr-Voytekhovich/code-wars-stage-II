@@ -15,7 +15,7 @@ Codewars Stage2:
 - [x] - (6 kyu) http://www.codewars.com/kata/closures-and-scopes
 - [x] - (Beta) http://www.codewars.com/kata/a-function-within-a-function
 - [x] - (6 kyu) http://www.codewars.com/kata/can-you-keep-a-secret
-- [ ] - (5 kyu) http://www.codewars.com/kata/using-closures-to-share-class-state
+- [x] - (5 kyu) http://www.codewars.com/kata/using-closures-to-share-class-state
 - [x] - (5 kyu) http://www.codewars.com/kata/a-chain-adding-function
 - [ ] - (5 kyu) http://www.codewars.com/kata/function-cache
 - [x] - (6 kyu) http://www.codewars.com/kata/function-composition
@@ -24,7 +24,7 @@ Codewars Stage2:
 - [ ] - (5 kyu) http://www.codewars.com/kata/i-spy
 - [x] - (5 kyu) http://www.codewars.com/kata/calculating-with-functions
 - [x] - (7 kyu) http://www.codewars.com/kata/santaclausable-interface
-- [ ] - (6 kyu) http://www.codewars.com/kata/new-with-apply
+- [x] - (6 kyu) http://www.codewars.com/kata/new-with-apply
 - [ ] - (6 kyu) http://www.codewars.com/kata/extract-nested-object-reference
 - [x] - (6 kyu) http://www.codewars.com/kata/array-helpers
 - [ ] - (5 kyu) http://www.codewars.com/kata/replicate-new
