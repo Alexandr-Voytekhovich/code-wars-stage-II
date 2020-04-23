@@ -17,20 +17,20 @@ Codewars Stage2:
 - [x] - (6 kyu) http://www.codewars.com/kata/can-you-keep-a-secret
 - [x] - (5 kyu) http://www.codewars.com/kata/using-closures-to-share-class-state
 - [x] - (5 kyu) http://www.codewars.com/kata/a-chain-adding-function
-- [ ] - (5 kyu) http://www.codewars.com/kata/function-cache
+- [x] - (5 kyu) http://www.codewars.com/kata/function-cache
 - [x] - (6 kyu) http://www.codewars.com/kata/function-composition
-- [ ] - (6 kyu) http://www.codewars.com/kata/function-composition-1
+- [x] - (6 kyu) http://www.codewars.com/kata/function-composition-1
 - [x] - (6 kyu) http://www.codewars.com/kata/stringing-me-along
-- [ ] - (5 kyu) http://www.codewars.com/kata/i-spy
+- [x] - (5 kyu) http://www.codewars.com/kata/i-spy
 - [x] - (5 kyu) http://www.codewars.com/kata/calculating-with-functions
 - [x] - (7 kyu) http://www.codewars.com/kata/santaclausable-interface
 - [x] - (6 kyu) http://www.codewars.com/kata/new-with-apply
-- [ ] - (6 kyu) http://www.codewars.com/kata/extract-nested-object-reference
+- [x] - (6 kyu) http://www.codewars.com/kata/extract-nested-object-reference
 - [x] - (6 kyu) http://www.codewars.com/kata/array-helpers
-- [ ] - (5 kyu) http://www.codewars.com/kata/replicate-new
+- [x] - (5 kyu) http://www.codewars.com/kata/replicate-new
 - [x] - (6 kyu) http://www.codewars.com/kata/sum-of-digits-slash-digital-root/ https://codeforces.com/blog/entry/18286
-- [ ] - (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
-- [ ] - (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
+- [x] - (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
+- [x] - (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
 Optional
 - [ ] - (5 kyu) http://www.codewars.com/kata/lazy-evaluation
 - [ ] - (5 kyu) http://www.codewars.com/kata/tail-recursion-with-trampoline
