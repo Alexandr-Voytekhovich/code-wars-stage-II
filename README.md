@@ -1,4 +1,4 @@
-Codewars Stage2:
+Codewars Stage-II:
 - [x] - (8 kyu) http://www.codewars.com/kata/opposite-number
 - [x] - (8 kyu) http://www.codewars.com/kata/basic-mathematical-operations
 - [x] - (8 kyu) http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
@@ -35,8 +35,9 @@ Optional
 - [ ] - (5 kyu) http://www.codewars.com/kata/lazy-evaluation
 - [ ] - (5 kyu) http://www.codewars.com/kata/tail-recursion-with-trampoline
 - [ ] - (1 kyu) http://www.codewars.com/kata/functional-sql
-- [ ] - (5 kyu) http://www.codewars.com/kata/can-you-get-the-loop
-Scoring criteria
+- [x] - (5 kyu) http://www.codewars.com/kata/can-you-get-the-loop
+
+Scoring criteria:
 1 point for 8 kyu and 7 kyu tasks (14 tasks at all)
 4 points - 6 kyu (11 at all)
 5 points - 5 kyu (7 at all)
