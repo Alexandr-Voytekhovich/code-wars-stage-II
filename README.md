@@ -32,8 +32,8 @@ Codewars Stage-II:
 - [x] - (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
 - [x] - (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
 Optional
-- [ ] - (5 kyu) http://www.codewars.com/kata/lazy-evaluation
-- [ ] - (5 kyu) http://www.codewars.com/kata/tail-recursion-with-trampoline
+- [x] - (5 kyu) http://www.codewars.com/kata/lazy-evaluation
+- [x] - (5 kyu) http://www.codewars.com/kata/tail-recursion-with-trampoline
 - [ ] - (1 kyu) http://www.codewars.com/kata/functional-sql
 - [x] - (5 kyu) http://www.codewars.com/kata/can-you-get-the-loop
 
